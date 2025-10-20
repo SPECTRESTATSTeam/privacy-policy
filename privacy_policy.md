@@ -1,50 +1,50 @@
-Privacy Policy for SPECTRESTATS
-Last Updated: October 10, 2025
+**Privacy Policy for SPECTRESTATS**
+Last Updated: October 20, 2025
 
-This Privacy Policy describes how SPECTRESTATS ("we", "us", or "our") handles your information when you use our Chrome extension. Your privacy is our top priority.
+This Privacy Policy describes how SPECTRESTATS ("we", "us", or "our") handles information when you use our Chrome extension. We are committed to protecting your privacy and ensuring transparency.
 
-1. Data Processing and Storage
-SPECTRESTATS is designed with a "privacy-first" approach.
+**1. Data Processing and Storage (Privacy First)**
 
-Local Processing: All of your personal betting data, which you provide by uploading your bet archive files from online gaming platforms, is processed exclusively on your local computer within your browser. This data is never transmitted to our servers or any third party.
+SPECTRESTATS is designed with a strong emphasis on user privacy and local data handling.
 
-Local Storage: The processed statistics and bet information are stored locally on your machine using the browser's built-in IndexedDB storage. This allows the extension to function without needing to re-process your files every time you open it.
+* **Local Processing:** All historical activity data, which you provide by manually uploading your archive files from `stake.com`, is processed **exclusively on your local computer** within your browser. This data is never transmitted to our servers or any third-party servers.
+* **Local Storage:** The processed historical summaries and related information derived from your files are stored locally on your machine using the browser's built-in IndexedDB storage. This allows the extension to display your visualized data without re-processing files each time and ensures your detailed information remains on your device.
 
-2. Data Sharing and Community Features
-To provide community-level insights, SPECTRESTATS shares a limited, completely anonymous, and aggregated set of data with our secure Supabase backend.
+**2. Data Sharing for Community Insights (Optional & Anonymous)**
 
-What We Share:
+To provide general insights about game activity trends across the user base (e.g., overall popularity or aggregated metrics for specific games), SPECTRESTATS shares a **strictly limited, anonymous, and aggregated** set of data with our secure backend (Supabase). Participation in this feature is inherent to using the community tab but involves no personal data.
 
-Aggregated game statistics (e.g., for a specific game, we might share the total number of bets, total amount wagered, and total payout across all users for that game).
+* **What We Share Anonymously:**
+    * **Aggregated Game Statistics:** For specific games encountered across all users, we share *combined totals* (e.g., total count of activities, total turnover volume) without linking data to any individual.
+    * **Anonymized High-Value Events:** Notable event data (e.g., high multipliers achieved within a game) may be shared *without any user identifiers*.
+    * **Anonymous User ID:** A randomly generated ID helps distinguish contributions from different installations for aggregation accuracy but cannot be used to identify you personally.
 
-Top individual bet results (wins, losses, multipliers) without any personally identifiable information.
+* **What We Absolutely DO NOT Share:**
+    * Your `stake.com` username or any personal account details.
+    * Your IP address or specific location information.
+    * Your detailed, individual activity history or personal usage patterns.
+    * Any file contents you upload.
+    * Any data that could reasonably be used to link the anonymous aggregated data back to you.
 
-A randomly generated, anonymous user ID to distinguish aggregated data from different users without identifying who you are.
+The **sole purpose** of sharing this anonymous, aggregated data is to power the optional "Community Stats" feature, providing general game trend information. It is **never** used for user tracking or profiling.
 
-What We DO NOT Share:
+**3. Advertising**
 
-Your platform username or any personal account details.
+SPECTRESTATS does not currently display advertisements. If this changes in the future:
 
-Your IP address.
+* **No Personal Data for Ads:** We commit to *never* using your locally processed activity data, history, or any sensitive personal information derived from your uploaded files for advertising purposes.
+* **Contextual or General Ads:** Any potential future ads would be general or based on non-personal context (like the site being viewed), not on your individual activity data.
 
-Your individual bet history or patterns.
+**4. Your Control and Data Deletion**
 
-Any information that could be used to link your anonymous data back to you.
+You maintain full control over your locally stored data.
 
-The purpose of sharing this anonymous data is solely to power the "Community Stats" feature, allowing you to compare your performance against a broader, privacy-respecting dataset.
+* **Data Deletion:** By using the "Clear Data" button within the extension, you can **permanently delete all locally stored activity information** derived from your uploaded files from your browser's storage at any time. This action only affects your local data and cannot be undone.
 
-3. Advertising and Promotions
-In the future, SPECTRESTATS may display advertisements or promotional codes for third-party platforms. Our commitment to privacy extends to our advertising practices:
+**5. Changes to This Policy**
 
-No Personal Data for Ads: We will not use your personal betting data, history, or any sensitive information to target advertisements.
+We may update this Privacy Policy occasionally. We encourage you to review it periodically. Significant changes will be communicated through the extension's store listing or interface. Your continued use of the extension after changes constitutes acceptance of the new policy.
 
-Contextual Ads: Advertisements that may be displayed will be general in nature or based on non-personal context, such as the game or platform you are currently viewing. Your individual performance data will not be used for ad targeting.
+**6. Contact Us**
 
-4. Your Control
-You have full control over your data. By using the "Clear Data" button within the extension, you can permanently delete all locally stored betting information from your browser at any time. This action cannot be undone.
-
-5. Changes to This Policy
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the extension's store listing.
-
-6. Contact Us
 If you have any questions about this Privacy Policy, please contact us at spectretvclub@gmail.com.
